@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnleonova&label=Profile%20views&color=c5a0fd&style=flat-square" alt="nnleonova" /> </p>
 
-- 🔭 I’m currently working on **disaster risk management tool @GFDRR,The World Bank**
+- 🔭 I’m currently working on **disaster risk management tool @GFDRR, The World Bank**
 
 - 👀 I’m interested in **art, architecture, smart cities, urban analytics**
 
