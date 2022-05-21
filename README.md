@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **art, architecture, smart cities, urban analytics**
 
-- 👨‍💻 Some of my projects are available at [nnleonova.github.io]([nnleonova.github.io](https://nnleonova.github.io/))
+- 👨‍💻 Some of my projects are available at [nnleonova.github.io](https://nnleonova.github.io/)
 
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/nleonova/" target="blank">linkedin</a>
 </p>
